@@ -33,6 +33,9 @@
         <mxCell id="xBA850rNsammbT_9LoxJ-7" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#F58534;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;verticalAlign=top;dashed=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="316" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xBA850rNsammbT_9LoxJ-14" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="525" y="160" width="50" height="48.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
