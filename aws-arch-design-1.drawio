@@ -221,9 +221,13 @@
             <mxPoint x="405" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xBA850rNsammbT_9LoxJ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="xBA850rNsammbT_9LoxJ-59">
+        <mxCell id="xBA850rNsammbT_9LoxJ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="558" as="sourcePoint" />
             <mxPoint x="502" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="502" y="558" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xBA850rNsammbT_9LoxJ-102" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xBA850rNsammbT_9LoxJ-62">
@@ -340,6 +344,16 @@
         </mxCell>
         <mxCell id="xBA850rNsammbT_9LoxJ-165" value="&lt;b&gt;Production&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="959" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xBA850rNsammbT_9LoxJ-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.812;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" edge="1" parent="1" target="xBA850rNsammbT_9LoxJ-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="390" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="721" y="390" />
+              <mxPoint x="721" y="450" />
+              <mxPoint x="707" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
