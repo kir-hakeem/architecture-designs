@@ -211,7 +211,8 @@
         <mxCell id="Ebw7YvS8BEwTWqcTJb2T-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ebw7YvS8BEwTWqcTJb2T-61" target="Ebw7YvS8BEwTWqcTJb2T-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="55" />
+              <mxPoint x="550" y="120" />
+              <mxPoint x="530" y="120" />
               <mxPoint x="530" y="210" />
               <mxPoint x="675" y="210" />
             </Array>
@@ -219,6 +220,15 @@
         </mxCell>
         <mxCell id="Ebw7YvS8BEwTWqcTJb2T-61" value="Pull Request Template" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-bold-vol-3-1/256/git-pull-request-duotone-128.png;imageBackground=#000000;" vertex="1" parent="1">
           <mxGeometry x="550" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ebw7YvS8BEwTWqcTJb2T-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ebw7YvS8BEwTWqcTJb2T-62" target="Ebw7YvS8BEwTWqcTJb2T-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="120" />
+              <mxPoint x="715" y="120" />
+              <mxPoint x="715" y="265" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ebw7YvS8BEwTWqcTJb2T-62" value="Approve Permissions" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.approver;" vertex="1" parent="1">
           <mxGeometry x="740" y="10" width="60" height="60" as="geometry" />
