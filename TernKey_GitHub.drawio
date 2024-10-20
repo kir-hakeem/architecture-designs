@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
   <diagram name="Page-1" id="uPhx6uB5De-v4-h4SkFl">
-    <mxGraphModel dx="1038" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="412" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,12 @@
           <mxGeometry x="218.854335665181" y="303.3114705882353" width="36.91568899483457" height="36.91568899483457" as="geometry" />
         </mxCell>
         <mxCell id="rBqO79lfzJ8BU9kx_d6N-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ebw7YvS8BEwTWqcTJb2T-8" target="Ebw7YvS8BEwTWqcTJb2T-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="224" />
+              <mxPoint x="870" y="224" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ebw7YvS8BEwTWqcTJb2T-8" value="Release Branch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/git-branch-fill-128.png;imageBackground=#000000;container=0;" parent="1" vertex="1">
           <mxGeometry x="754.4904103737667" y="205.3702941176471" width="36.91568899483457" height="36.91568899483457" as="geometry" />
@@ -64,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ebw7YvS8BEwTWqcTJb2T-11" value="Features Branch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-3/256/git-branch-fill-128.png;imageBackground=#000000;container=0;" parent="1" vertex="1">
-          <mxGeometry x="661.3219232942579" y="428.3810294117647" width="36.91568899483457" height="36.91568899483457" as="geometry" />
+          <mxGeometry x="680.0019232942578" y="429.1810294117647" width="36.91568899483457" height="36.91568899483457" as="geometry" />
         </mxCell>
         <mxCell id="rBqO79lfzJ8BU9kx_d6N-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ebw7YvS8BEwTWqcTJb2T-24" target="rBqO79lfzJ8BU9kx_d6N-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +84,7 @@
           <mxGeometry x="421.13130583528397" y="428.38102941176476" width="36.91568899483457" height="36.91568899483457" as="geometry" />
         </mxCell>
         <mxCell id="Ebw7YvS8BEwTWqcTJb2T-26" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;container=0;" parent="1" vertex="1">
-          <mxGeometry x="894.857878633762" y="147.13367647058823" width="85.142121366238" height="160.14970588235295" as="geometry" />
+          <mxGeometry x="894.857878633762" y="151.76367647058822" width="85.142121366238" height="160.14970588235295" as="geometry" />
         </mxCell>
         <mxCell id="Ebw7YvS8BEwTWqcTJb2T-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ebw7YvS8BEwTWqcTJb2T-7" target="Ebw7YvS8BEwTWqcTJb2T-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -152,11 +157,14 @@
         <mxCell id="QwUAlGx710b_DWiQYOa2-8" value="&lt;div&gt;git add . \&lt;/div&gt;&lt;div&gt;git commit -m &quot;******&quot;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;container=0;" vertex="1" parent="1">
           <mxGeometry x="662.5516193781583" y="275.51338235294133" width="35.68325090516601" height="36.39705882352941" as="geometry" />
         </mxCell>
-        <mxCell id="QwUAlGx710b_DWiQYOa2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QwUAlGx710b_DWiQYOa2-11" target="Ebw7YvS8BEwTWqcTJb2T-11">
+        <mxCell id="QwUAlGx710b_DWiQYOa2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QwUAlGx710b_DWiQYOa2-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="698.2338609007572" y="359.99965517241384" as="sourcePoint" />
+            <mxPoint x="716.9176122890922" y="435.94887390918194" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="722.584663324534" y="371.7392647058824" />
-              <mxPoint x="722.584663324534" y="449.69117647058823" />
+              <mxPoint x="698" y="370" />
+              <mxPoint x="740" y="370" />
+              <mxPoint x="740" y="436" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -219,6 +227,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="575.3693702421027" y="298.6764705882353" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QwUAlGx710b_DWiQYOa2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.917;entryY=0.557;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QwUAlGx710b_DWiQYOa2-12" target="Ebw7YvS8BEwTWqcTJb2T-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
